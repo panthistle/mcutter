@@ -37,9 +37,8 @@ Session Operations are grouped into four main categories.
 
 **1. Display options:**  These are self-explanatory display options.
 
-**2. Cutter stack:**  A list of all the cutters used in the current session. There are two buttons you use to add or remove cutters and you may also choose to copy the current settings to the new cutter. You can change the names of cutters by double-clicking on the them. Note, that after you have added a cutter you must click the 'Update' button to see
-the effect on the Target. This button activates the Update Operator and launches its
-Redo panel where you can update all the parameter settings of the Active Cutter.
+**2. Cutter stack:**  A list of all the cutters used in the current session. There are two buttons you use to add or remove cutters and you may also choose to copy the current settings to the new cutter. You can change the names of cutters by double-clicking on them. Note, that after you have added a cutter you must click the 'Update' button to see
+the effect on the Target. This button activates the Update Operator and launches its Redo panel where you can update all the parameter settings of the Active Cutter.
 
 There are three main cutter-profile styles. Rectangle, Ellipse and Wave. Each one of those has options which are enabled depending on the selected style. You change the cutter x/y/z dimensions by entering values in the respective Size fields.
 You can further customize the profile with the Frame option. Position and Rotation of the cutter may be set to inherit from Target. There is also an option to array the cutter using either the radial array or the array modifiers.
