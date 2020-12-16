@@ -197,7 +197,6 @@ class MCUTTER_OT_target_set(bpy.types.Operator):
         props.target_bool_effects = True
         props.target_wire = False
         props.copy_setts = True
-        props.setts_tabs = 'TRANS'
         props.temps_clear = True
         props.ul_idx = len(props.ul_coll) - 1        
 
